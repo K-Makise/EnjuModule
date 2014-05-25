@@ -1,0 +1,58 @@
+11/7/2013
+ver1.3.0
+Change process keeping method.
+
+ver1.2.1
+Update ParseException class.
+
+8/8/2013
+ver1.2.0
+Change URL building sequence.
+Delete method using Lucene 4.3
+
+Add ParseException.
+
+Add method to count token in data container.
+Add Link instance of a previous Token in Token data container.
+
+Analysis package is added.
+This package make convenience to analyze output of enju.
+SemHeadAnalyzer is added.
+
+7/17/2013
+ver1.1.1
+Change visit package.
+FirstTokenExtractor change to interface.
+Add FirstTokenExtractor and FirstWDTExtractor.
+Add BaseExtractor.
+
+Add Link instance of a previous junction in Entry data container.
+
+7/16/2013
+ver1.1.0
+Add Link instance in Entry data container to access related object directory. 
+
+UrlBuilder's bag fix
+innovate Java URL Encoder.
+
+Constituent.getText
+Change algorithm.
+
+NPExtractor change to CatExtractor.
+This class provide extraction of constituent, and it can extract not only NP but also others.
+
+Make Enju options available.
+
+7/8/2013
+ver1.0.1
+NPExtractor class's bag fix
+
+Sentence class's bag fix
+fom problem
+
+UrlBuilder's bag fix
+? and = problem
+
+
+7/8/2013
+ver1.0.0
